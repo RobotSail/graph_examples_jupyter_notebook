@@ -1,0 +1,10 @@
+seaborn
+matplotlib
+sklearn
+numpy
+pandas
+statsmodels 
+sklearn
+jupyterlab
+scikit-learn==1.1
+scipy
